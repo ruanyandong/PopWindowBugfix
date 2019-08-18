@@ -1,0 +1,2 @@
+# PopWindowBugfix
+修复PopWindow在7.0上的全屏显示和gravity无效的问题
